@@ -15,5 +15,3 @@
 <div style="display: inline_block"><br>
 
 </div>
-
-![Snake animation](https://github.com/rikellmee/rikellmee/blob/output/github-contribution-grid-snake.svg)
