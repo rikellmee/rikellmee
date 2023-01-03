@@ -1,6 +1,6 @@
 ### Olá Pessoas ✌
 
-- 🌱 Atualmente estudo Wordpress, HTML e CSS
+- 🌱 Atualmente estudo React, HTML e CSS
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Viciado em cultura pop-nerd
 
